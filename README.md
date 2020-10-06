@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="ReDoc logo" src="https://raw.githubusercontent.com/alexaCU/skillsHub/main/SkillsHub.png" width="400px" />
+  <img alt="ReDoc logo" src="https://raw.githubusercontent.com/alexaCU/skillsHub/main/SkillsHub.png"/>
 </p>
 
 **We have made this repo, which is open to all alexa skill developers**
